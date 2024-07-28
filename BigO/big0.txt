@@ -1,0 +1,11 @@
+Big O is the worse case of a problem
+Average case is theta
+Best case is omega
+
+1 2 3 4 5 6 7 
+Ω     Θ     O
+Ω  omega
+Θ  theta
+O  Omincram/ big O
+
+Big O is normally the worse case

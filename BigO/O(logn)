@@ -1,0 +1,2 @@
+//Next best type instead of O(1)
+//This is used when you plit an operation andthen you split another operation
